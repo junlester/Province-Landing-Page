@@ -1,4 +1,22 @@
 body{
-	background-color: darkred;
+	background-color: peachpuff;
+	font-size: 24px;
+	font-style: oblique;
+
 }
+img{
+	width: 10%;
+}
+video{
+	border-style: solid;
+}
+
+dl{
+	font-size: 30;
+}
+
+MyText{
+	font-size: 24;
+}
+
 
